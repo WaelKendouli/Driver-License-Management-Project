@@ -1,0 +1,12 @@
+D:\Repos2\ApplicationTypesDataAccess\bin\Debug\ApplicationTypesDataAccess.dll
+D:\Repos2\ApplicationTypesDataAccess\bin\Debug\ApplicationTypesDataAccess.pdb
+D:\Repos2\ApplicationTypesDataAccess\obj\Debug\ApplicationTypesDataAccess.csproj.AssemblyReference.cache
+D:\Repos2\ApplicationTypesDataAccess\obj\Debug\ApplicationTypesDataAccess.csproj.CoreCompileInputs.cache
+D:\Repos2\ApplicationTypesDataAccess\obj\Debug\ApplicationTypesDataAccess.dll
+D:\Repos2\ApplicationTypesDataAccess\obj\Debug\ApplicationTypesDataAccess.pdb
+D:\Repos2\MY_DVLD_Project_Course19\ApplicationTypesDataAccess\bin\Debug\ApplicationTypesDataAccess.dll
+D:\Repos2\MY_DVLD_Project_Course19\ApplicationTypesDataAccess\bin\Debug\ApplicationTypesDataAccess.pdb
+D:\Repos2\MY_DVLD_Project_Course19\ApplicationTypesDataAccess\obj\Debug\ApplicationTypesDataAccess.csproj.AssemblyReference.cache
+D:\Repos2\MY_DVLD_Project_Course19\ApplicationTypesDataAccess\obj\Debug\ApplicationTypesDataAccess.csproj.CoreCompileInputs.cache
+D:\Repos2\MY_DVLD_Project_Course19\ApplicationTypesDataAccess\obj\Debug\ApplicationTypesDataAccess.dll
+D:\Repos2\MY_DVLD_Project_Course19\ApplicationTypesDataAccess\obj\Debug\ApplicationTypesDataAccess.pdb

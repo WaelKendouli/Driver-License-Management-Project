@@ -1,0 +1,12 @@
+D:\Repos2\ConnectionToMyDataBase\bin\Debug\ConnectionToMyDataBase.dll
+D:\Repos2\ConnectionToMyDataBase\bin\Debug\ConnectionToMyDataBase.pdb
+D:\Repos2\ConnectionToMyDataBase\obj\Debug\ConnectionToMyDataBase.csproj.AssemblyReference.cache
+D:\Repos2\ConnectionToMyDataBase\obj\Debug\ConnectionToMyDataBase.csproj.CoreCompileInputs.cache
+D:\Repos2\ConnectionToMyDataBase\obj\Debug\ConnectionToMyDataBase.dll
+D:\Repos2\ConnectionToMyDataBase\obj\Debug\ConnectionToMyDataBase.pdb
+D:\Repos2\MY_DVLD_Project_Course19\ConnectionToMyDataBase\bin\Debug\ConnectionToMyDataBase.dll
+D:\Repos2\MY_DVLD_Project_Course19\ConnectionToMyDataBase\bin\Debug\ConnectionToMyDataBase.pdb
+D:\Repos2\MY_DVLD_Project_Course19\ConnectionToMyDataBase\obj\Debug\ConnectionToMyDataBase.csproj.AssemblyReference.cache
+D:\Repos2\MY_DVLD_Project_Course19\ConnectionToMyDataBase\obj\Debug\ConnectionToMyDataBase.csproj.CoreCompileInputs.cache
+D:\Repos2\MY_DVLD_Project_Course19\ConnectionToMyDataBase\obj\Debug\ConnectionToMyDataBase.dll
+D:\Repos2\MY_DVLD_Project_Course19\ConnectionToMyDataBase\obj\Debug\ConnectionToMyDataBase.pdb

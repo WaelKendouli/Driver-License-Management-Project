@@ -1,0 +1,6 @@
+D:\Repos2\MY_DVLD_Project_Course19\clsCreateEventLog\bin\Debug\clsCreateEventLog.dll
+D:\Repos2\MY_DVLD_Project_Course19\clsCreateEventLog\bin\Debug\clsCreateEventLog.pdb
+D:\Repos2\MY_DVLD_Project_Course19\clsCreateEventLog\obj\Debug\clsCreateEventLog.csproj.AssemblyReference.cache
+D:\Repos2\MY_DVLD_Project_Course19\clsCreateEventLog\obj\Debug\clsCreateEventLog.csproj.CoreCompileInputs.cache
+D:\Repos2\MY_DVLD_Project_Course19\clsCreateEventLog\obj\Debug\clsCreateEventLog.dll
+D:\Repos2\MY_DVLD_Project_Course19\clsCreateEventLog\obj\Debug\clsCreateEventLog.pdb
